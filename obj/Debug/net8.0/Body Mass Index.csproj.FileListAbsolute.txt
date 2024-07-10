@@ -1,0 +1,14 @@
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\bin\Debug\net8.0\Body Mass Index.exe
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\bin\Debug\net8.0\Body Mass Index.deps.json
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\bin\Debug\net8.0\Body Mass Index.runtimeconfig.json
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\bin\Debug\net8.0\Body Mass Index.dll
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\bin\Debug\net8.0\Body Mass Index.pdb
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\obj\Debug\net8.0\Body Mass Index.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\obj\Debug\net8.0\Body Mass Index.AssemblyInfoInputs.cache
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\obj\Debug\net8.0\Body Mass Index.AssemblyInfo.cs
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\obj\Debug\net8.0\Body Mass Index.csproj.CoreCompileInputs.cache
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\obj\Debug\net8.0\Body Mass Index.dll
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\obj\Debug\net8.0\refint\Body Mass Index.dll
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\obj\Debug\net8.0\Body Mass Index.pdb
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\obj\Debug\net8.0\Body Mass Index.genruntimeconfig.cache
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Body Mass Index\obj\Debug\net8.0\ref\Body Mass Index.dll
